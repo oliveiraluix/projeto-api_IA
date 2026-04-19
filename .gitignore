@@ -1,0 +1,6 @@
+node_modules/
+.cypress/
+cypress/evidences/
+cypress/videos/
+cypress/counter.json
+.DS_Store

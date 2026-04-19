@@ -1,0 +1,15 @@
+{
+  "name": "petstore-api-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cypress API automation suite for Swagger Petstore.",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "test": "npm run cy:run"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^15.14.0"
+  }
+}
