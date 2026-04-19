@@ -1,5 +1,6 @@
 # Petstore API Cypress Project
 
+Estudo de automação com IA. Treinamento de prompts de comandos a partir de um BDD informado.
 Automação de API para https://petstore.swagger.io/ usando Cypress e Faker.
 
 ## Instalação
