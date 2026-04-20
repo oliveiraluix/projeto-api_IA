@@ -9,6 +9,7 @@ module.exports = defineConfig({
     requestTimeout: 20000,
     screenshotsFolder: 'cypress/evidences',
     video: false,
+    allowCypressEnv: false,
     setupNodeEvents(on, config) {
       on('task', {
         generateEvidenceName(testTitle) {

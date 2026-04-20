@@ -3,4 +3,5 @@ node_modules/
 cypress/evidences/
 cypress/videos/
 cypress/counter.json
+cypress-run.log
 .DS_Store
